@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "251343829443",
+    "project_id": "fruitify-38fed",
+    "storage_bucket": "fruitify-38fed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251343829443:android:892ac13c0c2f714f286576",
+        "android_client_info": {
+          "package_name": "com.example.fruitify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcuB1IKqrv5JwZFr175wxPIRATN0oWMjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251343829443:android:401f7eae02ed5df6286576",
+        "android_client_info": {
+          "package_name": "com.example.fruitify_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcuB1IKqrv5JwZFr175wxPIRATN0oWMjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
